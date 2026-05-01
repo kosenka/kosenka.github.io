@@ -16,8 +16,11 @@
 Порт: 4515
 Ключ: eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 ```
-
-https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275
+```
+Сервер: super.alotaxi.info
+Порт: 4515
+Ключ: eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275
+```
 
 
 
